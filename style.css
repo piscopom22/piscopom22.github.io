@@ -1,0 +1,24 @@
+* { color:#000 text-decoration: none;}
+span {color :red;}
+h4 {font-size:60pt;!important}
+.small {font-size:9pt;!important}
+p {font-family: 'Roboto Condensed', sans-serif;}
+li {font-family: 'Roboto Condensed', sans-serif;}
+h2 {font-family: 'Josefin Slab', serif;}
+h3 {font-family: 'Josefin Slab', serif;}
+h4 {font-family: 'Josefin Slab', serif;}
+
+h1 {
+  background-color:black;
+  text-align: center;
+  color:red;
+  padding-top:5em;
+  padding-bottom:5em;
+  text-decoration:none;
+}
+
+header {background-color:#FF0000;}
+.red {background-color:#FF0000;}
+
+footer{color:#FF0000;}
+footer{background-color:#000000;}
